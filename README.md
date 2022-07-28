@@ -35,5 +35,3 @@ The project covers the following concepts:
 - Routing
 - State management (Context API + useReducer)
 - CSS Modules
-# reactproject
-# reactproject
