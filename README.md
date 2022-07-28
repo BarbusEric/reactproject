@@ -4,7 +4,7 @@ This is the final project from my Web Development course that I teach
 
 ## Demo
 
-The project is deployed at [_react project_](be-project-react.netlify.app)
+The project is deployed at [_react project_](https://be-project-react.netlify.app)
 
 ## Local usage
 
